@@ -13,4 +13,4 @@ def read_file(fname, nline):
                 break
             print(line.strip()) 
             
-read_file("dados/namex.txt",2)
+read_file("Manipulando arquivos/dados/namex.txt",1)
